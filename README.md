@@ -1,6 +1,6 @@
 # SpringBoot-FileUploadAndDownload-DB
 
-REST API : To show File upload and Download using API
+REST API : To show File Upload and Download using API
 
 BLOB (Binary Large Object) Type in MySql: -
 - TINYBLOB : 256 bytes
